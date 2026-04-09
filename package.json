@@ -1,6 +1,6 @@
 {
   "name": "create-adonis-react-starter",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "bin": {
     "create-adonis-react-starter": "./bin/index.js"
   },
